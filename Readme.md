@@ -6,4 +6,8 @@
 
 `1. Import Database to your local`
 
-`2. Run npm start for running the tailwind`
+`2. Run npm install for downloading the node_modules package`
+
+`3. Run npm start for running the tailwind`
+
+`4. Open your browser and running localhost/pengelolaan`
